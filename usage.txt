@@ -1,0 +1,20 @@
+Usage: clock [-h] [-c=color] [--version] [--help] [--hide-exit-text]
+
+clock is an ASCII art clock designed to be a part of a terminal multiplex setup.
+The clock displayed is always printed to the center of a window. Keep in 
+mind that the clock can be up to 1 second off and the time displayed is that
+of your local timezone. Different timezones are to be added at a later date.
+
+commands:
+	-h	--help		print this information
+	-c [color]		set clock to different color)
+	   red
+	   green
+	   yellow
+	   blue
+	   magenta
+	   cyan
+           white (default)
+
+	--version		print current version (0.9.1)
+	--hide-exit-text	hide text info at the bottom of the screen
