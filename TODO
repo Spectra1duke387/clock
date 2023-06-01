@@ -1,0 +1,6 @@
+Repo:
+	Update README
+C:
+	Add getopt_long()
+	update Makefile for src dir
+	Add 'Press 'q' to quit' to display
