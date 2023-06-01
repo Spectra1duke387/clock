@@ -2,5 +2,5 @@
 terminal ASCII art clock
 
 ## dependencies
-	* ncurses
+	ncurses
 That's all :-)
